@@ -14,4 +14,5 @@ def welcome():
 welcome()
 
 print("Now lets find out where are you from?")
-str(input("Type where are you from: "))
+b = str(input("Type where are you from: "))
+print("Cool! Yoy are: ", b)
